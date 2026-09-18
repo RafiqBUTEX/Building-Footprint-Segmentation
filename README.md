@@ -1,7 +1,7 @@
 # Building Footprint Segmentation (Inria Aerial Imagery)
 
 **Author:** Rafiqul Islam  
-**Context:** PhD Technical Assessment Submission (UNLV - Dr. John Sohn)
+**Context:** PhD Technical Assessment Submission
 
 ## 📌 Project Overview
 Semantic segmentation pipeline developed to extract building footprints from high-resolution aerial imagery using a U-Net architecture with a pre-trained `ResNet34` backbone. 
